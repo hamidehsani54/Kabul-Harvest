@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#faf5f0"/>
+  <ellipse cx="400" cy="380" rx="140" ry="200" fill="#6b2d3c" opacity="0.85"/>
+  <ellipse cx="400" cy="380" rx="110" ry="165" fill="#8b3a4a"/>
+  <ellipse cx="400" cy="360" rx="35" ry="50" fill="#4a1520" opacity="0.4"/>
+  <text x="400" y="620" text-anchor="middle" fill="#5c4033" font-size="28" font-family="Arial" font-weight="700">Figs</text>
+</svg>
