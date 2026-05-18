@@ -10,6 +10,10 @@ body {
   @apply bg-white text-slate-900 antialiased;
 }
 
+[dir="rtl"] body {
+  font-family: "Segoe UI", Tahoma, "Noto Naskh Arabic", "Helvetica Neue", sans-serif;
+}
+
 .section {
   @apply py-16 md:py-24;
 }
